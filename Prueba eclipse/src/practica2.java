@@ -5,7 +5,7 @@
 	public class practica2 {
 	    public static void main(String[] args) {
 	        Scanner teclado = new Scanner(System.in);
-	        System.out.println("Introduce primer numero: ");
+	        System.out.println("Introduce primer numero:aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa ");
 	        int numero1 = teclado.nextInt();
 	        System.out.println("Introduce segundo numero: ");
 	        int numero2 = teclado.nextInt();
